@@ -1,7 +1,8 @@
 TimLiu-Android
 ==============
 
-自己总结的Android开源项目及库。 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
+自己总结的Android开源项目及库。 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)           
+Android库学习收集QQ群: 339129051  欢迎入群。
 
 ###  目录
 - [UI](#UI)
@@ -483,6 +484,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [RecyclerView技术栈](http://www.jianshu.com/p/16712681731e) - RecyclerView技术栈。
  * [awesome-github](https://github.com/AntBranch/awesome-github)  - awesome-github:收集这个列表，只是为了更好地使用亲爱的GitHub。
  * [Android多渠道打包这样做才酸爽](http://www.simlinux.com/archives/1689.html) - Android多渠道打包这样做才酸爽。
+ * [使用 CheckStyle 检查代码](http://gudong.name/2016/04/07/checkstyle.html) - 使用 CheckStyle 检查代码。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
